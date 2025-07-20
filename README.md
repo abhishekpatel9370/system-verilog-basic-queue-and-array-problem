@@ -1,2 +1,3 @@
 # system-verilog-basic-queue-and-array-problem
-In this we just perform the basic opeartion on queue and array  just live how to insert values in array and queues how delete values in array and queue 
+In this reprository i just take one array of fixed size and one queue then first i add random values in array using 
+$unrandom function then i add the values of array into queue by reversing  
